@@ -1,0 +1,6 @@
+name: TestPlugin
+version: '1.0'
+main: Main.Main
+api-version: 1.13
+commands:
+   Espresso_Cookie:
